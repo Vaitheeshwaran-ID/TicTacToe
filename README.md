@@ -46,8 +46,8 @@ This project was built by learning from a YouTube tutorial and rewriting the cod
 
 ##ScreenShots
 
-![Calculator Screenshot](tictactoe.png)
-![Calculator Screenshot](tictactoe1.png)
+![Calculator Screenshot](screenshot/tictactoe.png)
+![Calculator Screenshot](screenshot/tictactoe1.png)
 
 
 ## 👤 Author
