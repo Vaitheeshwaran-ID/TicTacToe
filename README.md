@@ -43,6 +43,13 @@ This project was built by learning from a YouTube tutorial and rewriting the cod
 - Single-player mode with basic AI
 - Code refactoring using MVC architecture
 
+
+##ScreenShots
+
+![Calculator Screenshot](tictactoe.png)
+![Calculator Screenshot](tictactoe1.png)
+
+
 ## 👤 Author
 Vaitheeshwaran  
 Biotechnology student learning Java and problem-solving for IT placements
